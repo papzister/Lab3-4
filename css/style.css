@@ -1,0 +1,540 @@
+body {
+    overflow-x: hidden;
+}
+
+.Background {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+.Background1 {
+    position: absolute;
+    left: 0px;
+    top: 952px;
+    width: 100%;
+    height: 115%;
+    z-index: 1;
+}
+
+.LogoPizza {
+    position: absolute;
+    left: 30px;
+    top: 10px;
+    width: 120px;
+    height: 155px;
+    z-index: 1;
+}
+
+.Logo {
+    font-size: 20px;
+    font-family: Calibri;
+    color: rgb(247, 8, 8);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 50px;
+    top: 145px;
+    width: 300px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Contact {
+    font-size: 19px;
+    font-family: "Bahnschrift";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 1800px;
+    top: 30px;
+    width: 300px;
+    height: 600px;
+    z-index: 2;
+}
+
+.Reviews {
+    font-size: 19px;
+    font-family: "Consolas";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 1600px;
+    top: 30px;
+    width: 300px;
+    height: 600px;
+    z-index: 2;
+}
+
+.Menu {
+    font-size: 19px;
+    font-family: "Consolas";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 1200px;
+    top: 30px;
+    width: 300px;
+    height: 600px;
+    z-index: 2;
+}
+
+.Action {
+    font-size: 19px;
+    font-family: "Consolas";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 1400px;
+    top: 30px;
+    width: 300px;
+    height: 600px;
+    z-index: 2;
+}
+
+.Home {
+    font-size: 19px;
+    font-family: "Consolas";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 1000px;
+    top: 30px;
+    width: 300px;
+    height: 600px;
+    z-index: 2;
+}
+
+.Startup1 {
+    font-size: 20px;
+    font-family: Segoe Print;
+    color: rgb(221, 218, 218);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 250px;
+    top: 30px;
+    width: 550px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Startup2 {
+    font-size: 20px;
+    font-family: Segoe Print;
+    color: rgb(221, 218, 218);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 50px;
+    top: 250px;
+    width: 650px;
+    height: 600px;
+    z-index: 1;
+}
+
+.PizzaHut {
+    position: absolute;
+    left: 40px;
+    top: 300px;
+    width: 600px;
+    height: 300px;
+    z-index: 1;
+}
+
+.Startup3 {
+    font-size: 55px;
+    font-family: mv boli;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 100px;
+    top: 400px;
+    width: 1500px;
+    height: 600px;
+    z-index: 1;
+}
+
+.PhotoPizza {
+    font-size: 20px;
+    font-family: Calibri;
+    color: rgb(247, 8, 8);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 1200px;
+    top: 145px;
+    width: 700px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Startup4 {
+    font-size: 20px;
+    font-family: segoe print;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 50px;
+    top: 600px;
+    width: 1500px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Startup5 {
+    font-size: 20px;
+    font-family: Segoe Print;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 125px;
+    top: 600px;
+    width: 1500px;
+    height: 600px;
+    z-index: 1;
+}
+
+.IconPizza {
+    position: absolute;
+    left: 415px;
+    top: 620px;
+    width: 30px;
+    height: 30px;
+    z-index: 1;
+}
+
+.Startup6 {
+    font-size: 18px;
+    font-family: Segoe Print;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 125px;
+    top: 750px;
+    width: 1500px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Gavay {
+    position: absolute;
+    left: 115px;
+    top: 1000px;
+    width: 530px;
+    height: 530px;
+    z-index: 1;
+}
+
+.Startup7 {
+    font-size: 30px;
+    font-family: Segoe Print;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 750px;
+    top: 900px;
+    width: 1500px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Miasna {
+    position: absolute;
+    left: 650px;
+    top: 970px;
+    width: 650px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Formaggio {
+    position: absolute;
+    left: 1300px;
+    top: 1000px;
+    width: 550px;
+    height: 550px;
+    z-index: 1;
+}
+
+.Gribna {
+    position: absolute;
+    left: 300px;
+    top: 1500px;
+    width: 500px;
+    height: 500px;
+    z-index: 1;
+}
+
+.Chily {
+    position: absolute;
+    left: 950px;
+    top: 1470px;
+    width: 530px;
+    height: 530px;
+    z-index: 1;
+}
+
+.Startup8 {
+    font-size: 30px;
+    font-family: Segoe Print;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 300px;
+    top: 950px;
+    width: 1500px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Startup9 {
+    font-size: 30px;
+    font-family: Segoe Print;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 900px;
+    top: 950px;
+    width: 1500px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Startup10 {
+    font-size: 30px;
+    font-family: Segoe Print;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 1500px;
+    top: 950px;
+    width: 1500px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Startup11 {
+    font-size: 30px;
+    font-family: Segoe Print;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 500px;
+    top: 1970px;
+    width: 1500px;
+    height: 600px;
+    z-index: 1;
+}
+
+.Startup12 {
+    font-size: 30px;
+    font-family: Segoe Print;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    position: absolute;
+    left: 1200px;
+    top: 1970px;
+    width: 1500px;
+    height: 600px;
+    z-index: 1;
+}
+
+iframe {
+    position: absolute;
+    top: 1950px;
+    left: 0px;
+    width: 100%;
+    height: 975px;
+}
+
+.Background2 {
+    position: absolute;
+    left: 0px;
+    top: 2920px;
+    width: 100%;
+    height: 130%;
+    z-index: 1;
+}
+
+.Share {
+    font-size: 170px;
+    font-family: "Segoe Script";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 700px;
+    top: 3000px;
+    width: 700px;
+    height: 109.979px;
+    z-index: 440;
+}
+
+.Share1 {
+    font-size: 50px;
+    font-family: "Segoe Print";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 900px;
+    top: 3400px;
+    width: 700px;
+    height: 109.979px;
+    z-index: 441;
+}
+
+.Share2 {
+    font-size: 35px;
+    font-family: Consolas;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 900px;
+    top: 3500px;
+    width: 700px;
+    height: 109.979px;
+    z-index: 442;
+}
+
+.SharePhoto {
+    background-image: url("Share.png");
+    background-size: 100%;
+    position: absolute;
+    left: 1300px;
+    top: 3500px;
+    width: 500px;
+    height: 347px;
+    z-index: 443;
+}
+
+.SharePhoto2 {
+    background-image: url("Share2.png");
+    background-size: 100%;
+    position: absolute;
+    left: 100px;
+    top: 3000px;
+    width: 500px;
+    height: 320px;
+    z-index: 443;
+}
+
+.Response {
+    font-size: 27px;
+    font-family: "Bell MT";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 100px;
+    top: 4000px;
+    width: 700px;
+    height: 109.979px;
+    z-index: 441;
+}
+
+.Response1 {
+    font-size: 27px;
+    font-family: "Bell MT";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 1050px;
+    top: 4000px;
+    width: 700px;
+    height: 109.979px;
+    z-index: 441;
+}
+
+.Response2 {
+    font-size: 27px;
+    font-family: "Bell MT";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 535px;
+    top: 4000px;
+    width: 700px;
+    height: 109.979px;
+    z-index: 441;
+}
+
+.Response3 {
+    font-size: 27px;
+    font-family: "Bell MT";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+    left: 1500px;
+    top: 4000px;
+    width: 300px;
+    height: 109.979px;
+    z-index: 441;
+}
+
+.Pizza {
+    position: absolute;
+    left: 1250px;
+    top: 2900px;
+    width: 700px;
+    height: 700px;
+    z-index: 1;
+}
+
+.Pizza1 {
+    position: absolute;
+    left: 220px;
+    top: 3400px;
+    width: 500px;
+    height: 500px;
+    z-index: 1;
+}
